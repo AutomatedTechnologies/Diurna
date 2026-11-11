@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** Diurna — https://github.com/ngquerol/Diurna
-- **Original authors:** Copyright (c) 2016 Nicolas Gaulard-Querol; The above copyright notice and this permission notice shall be included in all; AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+- **Original authors:** Copyright (c) 2016 Nicolas Gaulard-Querol
 - **License:** MIT (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 40323fd9c77265c8b415dea5d1a9dade3179c417 (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-10
